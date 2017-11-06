@@ -1,2 +1,2 @@
 # OOPPlayland
-OOP playland from elementary school kids.
+OOP playland for elementary school kids.
